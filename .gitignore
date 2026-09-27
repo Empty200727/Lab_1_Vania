@@ -1,0 +1,10 @@
+# PyCharm
+.idea/
+
+# окружение
+.venv/
+env/
+
+# кэш
+__pycache__/
+.pytest_cache/
